@@ -1,7 +1,7 @@
 <h1 align="center">Nice to meet you! Hi 👋, I'm Abdulkadir Paşaoğlu</h1>
 - 📫 How to reach me **kadirneidik398@gmail.com.**
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/kadirn7)]([link](https://github.com/kadirn7)) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=[link](https://github.com/kadirn7))]([link](https://github.com/kadirn7)) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
