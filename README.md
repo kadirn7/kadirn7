@@ -1,7 +1,7 @@
 <h1 align="center">Nice to meet you! Hi 👋, I'm Abdulkadir Paşaoğlu</h1>
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abdulkadir-pa%C5%9Fao%C4%9Flu-78ab441b4/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abdulkadir-pa%C5%9Fao%C4%9Flu-78ab441b4/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
